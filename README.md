@@ -1,3 +1,3 @@
-Imagem de teste gerado da classe de teste (Pré-Refatoração)
+Imagem de teste gerado da classe TesteCalculadora
 
 ![alt text](image.png)
